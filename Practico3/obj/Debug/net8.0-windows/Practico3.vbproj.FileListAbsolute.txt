@@ -1,0 +1,52 @@
+C:\Users\ariel\source\trabajosPracticosTaller2\Practico3\obj\Debug\net8.0-windows\Practico3.vbproj.GenerateResource.cache
+C:\Users\ariel\source\trabajosPracticosTaller2\Practico3\obj\Debug\net8.0-windows\Practico3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\source\trabajosPracticosTaller2\Practico3\obj\Debug\net8.0-windows\Practico3.AssemblyInfoInputs.cache
+C:\Users\ariel\source\trabajosPracticosTaller2\Practico3\obj\Debug\net8.0-windows\Practico3.AssemblyInfo.vb
+C:\Users\ariel\source\trabajosPracticosTaller2\Practico3\obj\Debug\net8.0-windows\Practico3.vbproj.CoreCompileInputs.cache
+C:\Users\ariel\source\trabajosPracticosTaller2\Practico3\bin\Debug\net8.0-windows\Practico3.exe
+C:\Users\ariel\source\trabajosPracticosTaller2\Practico3\bin\Debug\net8.0-windows\Practico3.deps.json
+C:\Users\ariel\source\trabajosPracticosTaller2\Practico3\bin\Debug\net8.0-windows\Practico3.runtimeconfig.json
+C:\Users\ariel\source\trabajosPracticosTaller2\Practico3\bin\Debug\net8.0-windows\Practico3.dll
+C:\Users\ariel\source\trabajosPracticosTaller2\Practico3\bin\Debug\net8.0-windows\Practico3.pdb
+C:\Users\ariel\source\trabajosPracticosTaller2\Practico3\obj\Debug\net8.0-windows\Practico3.Form1.resources
+C:\Users\ariel\source\trabajosPracticosTaller2\Practico3\obj\Debug\net8.0-windows\Practico3.dll
+C:\Users\ariel\source\trabajosPracticosTaller2\Practico3\obj\Debug\net8.0-windows\refint\Practico3.dll
+C:\Users\ariel\source\trabajosPracticosTaller2\Practico3\obj\Debug\net8.0-windows\Practico3.pdb
+C:\Users\ariel\source\trabajosPracticosTaller2\Practico3\obj\Debug\net8.0-windows\Practico3.genruntimeconfig.cache
+C:\Users\ariel\source\trabajosPracticosTaller2\Practico3\obj\Debug\net8.0-windows\ref\Practico3.dll
+C:\Users\ariel\source\trabajosPracticosTaller2\Practico3\obj\Debug\net8.0-windows\Practico3.Resources.resources
+C:\Users\Fatima B\OneDrive\Documentos\Practico3\bin\Debug\net8.0-windows\Practico3.exe
+C:\Users\Fatima B\OneDrive\Documentos\Practico3\bin\Debug\net8.0-windows\Practico3.deps.json
+C:\Users\Fatima B\OneDrive\Documentos\Practico3\bin\Debug\net8.0-windows\Practico3.runtimeconfig.json
+C:\Users\Fatima B\OneDrive\Documentos\Practico3\bin\Debug\net8.0-windows\Practico3.dll
+C:\Users\Fatima B\OneDrive\Documentos\Practico3\bin\Debug\net8.0-windows\Practico3.pdb
+C:\Users\Fatima B\OneDrive\Documentos\Practico3\obj\Debug\net8.0-windows\Practico3.Form1.resources
+C:\Users\Fatima B\OneDrive\Documentos\Practico3\obj\Debug\net8.0-windows\Practico3.Resources.resources
+C:\Users\Fatima B\OneDrive\Documentos\Practico3\obj\Debug\net8.0-windows\Practico3.vbproj.GenerateResource.cache
+C:\Users\Fatima B\OneDrive\Documentos\Practico3\obj\Debug\net8.0-windows\Practico3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatima B\OneDrive\Documentos\Practico3\obj\Debug\net8.0-windows\Practico3.AssemblyInfoInputs.cache
+C:\Users\Fatima B\OneDrive\Documentos\Practico3\obj\Debug\net8.0-windows\Practico3.AssemblyInfo.vb
+C:\Users\Fatima B\OneDrive\Documentos\Practico3\obj\Debug\net8.0-windows\Practico3.vbproj.CoreCompileInputs.cache
+C:\Users\Fatima B\OneDrive\Documentos\Practico3\obj\Debug\net8.0-windows\Practico3.dll
+C:\Users\Fatima B\OneDrive\Documentos\Practico3\obj\Debug\net8.0-windows\refint\Practico3.dll
+C:\Users\Fatima B\OneDrive\Documentos\Practico3\obj\Debug\net8.0-windows\Practico3.pdb
+C:\Users\Fatima B\OneDrive\Documentos\Practico3\obj\Debug\net8.0-windows\Practico3.genruntimeconfig.cache
+C:\Users\Fatima B\OneDrive\Documentos\Practico3\obj\Debug\net8.0-windows\ref\Practico3.dll
+C:\Users\Fatima B\OneDrive\Documentos\BretFatimaTp1,2y3\Practico3\bin\Debug\net8.0-windows\Practico3.exe
+C:\Users\Fatima B\OneDrive\Documentos\BretFatimaTp1,2y3\Practico3\bin\Debug\net8.0-windows\Practico3.deps.json
+C:\Users\Fatima B\OneDrive\Documentos\BretFatimaTp1,2y3\Practico3\bin\Debug\net8.0-windows\Practico3.runtimeconfig.json
+C:\Users\Fatima B\OneDrive\Documentos\BretFatimaTp1,2y3\Practico3\bin\Debug\net8.0-windows\Practico3.dll
+C:\Users\Fatima B\OneDrive\Documentos\BretFatimaTp1,2y3\Practico3\bin\Debug\net8.0-windows\Practico3.pdb
+C:\Users\Fatima B\OneDrive\Documentos\BretFatimaTp1,2y3\Practico3\obj\Debug\net8.0-windows\Practico3.Form1.resources
+C:\Users\Fatima B\OneDrive\Documentos\BretFatimaTp1,2y3\Practico3\obj\Debug\net8.0-windows\Practico3.Resources.resources
+C:\Users\Fatima B\OneDrive\Documentos\BretFatimaTp1,2y3\Practico3\obj\Debug\net8.0-windows\Practico3.vbproj.GenerateResource.cache
+C:\Users\Fatima B\OneDrive\Documentos\BretFatimaTp1,2y3\Practico3\obj\Debug\net8.0-windows\Practico3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatima B\OneDrive\Documentos\BretFatimaTp1,2y3\Practico3\obj\Debug\net8.0-windows\Practico3.AssemblyInfoInputs.cache
+C:\Users\Fatima B\OneDrive\Documentos\BretFatimaTp1,2y3\Practico3\obj\Debug\net8.0-windows\Practico3.AssemblyInfo.vb
+C:\Users\Fatima B\OneDrive\Documentos\BretFatimaTp1,2y3\Practico3\obj\Debug\net8.0-windows\Practico3.vbproj.CoreCompileInputs.cache
+C:\Users\Fatima B\OneDrive\Documentos\BretFatimaTp1,2y3\Practico3\obj\Debug\net8.0-windows\Practico3.dll
+C:\Users\Fatima B\OneDrive\Documentos\BretFatimaTp1,2y3\Practico3\obj\Debug\net8.0-windows\refint\Practico3.dll
+C:\Users\Fatima B\OneDrive\Documentos\BretFatimaTp1,2y3\Practico3\obj\Debug\net8.0-windows\Practico3.pdb
+C:\Users\Fatima B\OneDrive\Documentos\BretFatimaTp1,2y3\Practico3\obj\Debug\net8.0-windows\Practico3.genruntimeconfig.cache
+C:\Users\Fatima B\OneDrive\Documentos\BretFatimaTp1,2y3\Practico3\obj\Debug\net8.0-windows\ref\Practico3.dll
+C:\Users\Fatima B\OneDrive\Documentos\BretFatimaTp1,2y3\Practico3\obj\Debug\net8.0-windows\Practico3.MDIParent1.resources

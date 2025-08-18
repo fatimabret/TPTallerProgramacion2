@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatima B\\OneDrive\\Documentos\\BretFatimaTp1,2y3\\Practico3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE889A37-8B3C-4C6A-AD27-E56405EF140C}|Practico3.vbproj|c:\\users\\fatima b\\onedrive\\documentos\\bretfatimatp1,2y3\\practico3\\mdiparent1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AE889A37-8B3C-4C6A-AD27-E56405EF140C}|Practico3.vbproj|solutionrelative:mdiparent1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE889A37-8B3C-4C6A-AD27-E56405EF140C}|Practico3.vbproj|c:\\users\\fatima b\\onedrive\\documentos\\bretfatimatp1,2y3\\practico3\\mdiparent1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AE889A37-8B3C-4C6A-AD27-E56405EF140C}|Practico3.vbproj|solutionrelative:mdiparent1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE889A37-8B3C-4C6A-AD27-E56405EF140C}|Practico3.vbproj|c:\\users\\fatima b\\onedrive\\documentos\\bretfatimatp1,2y3\\practico3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AE889A37-8B3C-4C6A-AD27-E56405EF140C}|Practico3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE889A37-8B3C-4C6A-AD27-E56405EF140C}|Practico3.vbproj|c:\\users\\fatima b\\onedrive\\documentos\\bretfatimatp1,2y3\\practico3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AE889A37-8B3C-4C6A-AD27-E56405EF140C}|Practico3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Fatima B\\OneDrive\\Documentos\\BretFatimaTp1,2y3\\Practico3\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Fatima B\\OneDrive\\Documentos\\BretFatimaTp1,2y3\\Practico3\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-18T00:47:42.932Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fatima B\\OneDrive\\Documentos\\BretFatimaTp1,2y3\\Practico3\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Fatima B\\OneDrive\\Documentos\\BretFatimaTp1,2y3\\Practico3\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-17T22:27:12.283Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MDIParent1.vb",
+              "DocumentMoniker": "C:\\Users\\Fatima B\\OneDrive\\Documentos\\BretFatimaTp1,2y3\\Practico3\\MDIParent1.vb",
+              "RelativeDocumentMoniker": "MDIParent1.vb",
+              "ToolTip": "C:\\Users\\Fatima B\\OneDrive\\Documentos\\BretFatimaTp1,2y3\\Practico3\\MDIParent1.vb",
+              "RelativeToolTip": "MDIParent1.vb",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAiwFMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-18T03:38:31.577Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MDIParent1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fatima B\\OneDrive\\Documentos\\BretFatimaTp1,2y3\\Practico3\\MDIParent1.vb",
+              "RelativeDocumentMoniker": "MDIParent1.vb",
+              "ToolTip": "C:\\Users\\Fatima B\\OneDrive\\Documentos\\BretFatimaTp1,2y3\\Practico3\\MDIParent1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "MDIParent1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-18T03:38:08.971Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
