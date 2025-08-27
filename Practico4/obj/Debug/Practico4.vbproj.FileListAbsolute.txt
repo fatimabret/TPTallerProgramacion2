@@ -1,0 +1,13 @@
+C:\Users\ariel\source\trabajosPraticos2daParte\Practico4\obj\Debug\Practico4.vbproj.AssemblyReference.cache
+C:\Users\ariel\source\trabajosPraticos2daParte\Practico4\obj\Debug\Practico4.Resources.resources
+C:\Users\ariel\source\trabajosPraticos2daParte\Practico4\obj\Debug\Practico4.vbproj.GenerateResource.cache
+C:\Users\ariel\source\trabajosPraticos2daParte\Practico4\obj\Debug\Practico4.vbproj.CoreCompileInputs.cache
+C:\Users\ariel\source\trabajosPraticos2daParte\Practico4\bin\Debug\Practico4.exe.config
+C:\Users\ariel\source\trabajosPraticos2daParte\Practico4\bin\Debug\Practico4.exe
+C:\Users\ariel\source\trabajosPraticos2daParte\Practico4\bin\Debug\Practico4.pdb
+C:\Users\ariel\source\trabajosPraticos2daParte\Practico4\bin\Debug\Practico4.xml
+C:\Users\ariel\source\trabajosPraticos2daParte\Practico4\obj\Debug\Practico4.Form1.resources
+C:\Users\ariel\source\trabajosPraticos2daParte\Practico4\obj\Debug\Practico4.exe
+C:\Users\ariel\source\trabajosPraticos2daParte\Practico4\obj\Debug\Practico4.xml
+C:\Users\ariel\source\trabajosPraticos2daParte\Practico4\obj\Debug\Practico4.pdb
+C:\Users\ariel\source\trabajosPraticos2daParte\Practico4\obj\Debug\Practico4.exe.config
